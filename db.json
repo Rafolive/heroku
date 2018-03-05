@@ -44,10 +44,30 @@
       "city": "",
       "rating": "5",
       "reviews": "",
-      "location": [{ "lat": 0, "lon": 0 }],
-      "meals": [{ "id": 0, "title": "meal title" }],
-      "roomType": [{ "id": 0, "title": "roomType title" }],
-      "facilities": [{ "id": 0, "title": "facility title" }],
+      "location": [
+        {
+          "lat": 0,
+          "lon": 0
+        }
+      ],
+      "meals": [
+        {
+          "id": 0,
+          "title": "meal title"
+        }
+      ],
+      "roomType": [
+        {
+          "id": 0,
+          "title": "roomType title"
+        }
+      ],
+      "facilities": [
+        {
+          "id": 0,
+          "title": "facility title"
+        }
+      ],
       "url": "hotel url"
     },
     {
@@ -59,10 +79,30 @@
       "city": "",
       "rating": "5",
       "reviews": "",
-      "location": [{ "lat": 0, "lon": 0 }],
-      "meals": [{ "id": 0, "title": "meal title" }],
-      "roomType": [{ "id": 0, "title": "roomType title" }],
-      "facilities": [{ "id": 0, "title": "facility title" }],
+      "location": [
+        {
+          "lat": 0,
+          "lon": 0
+        }
+      ],
+      "meals": [
+        {
+          "id": 0,
+          "title": "meal title"
+        }
+      ],
+      "roomType": [
+        {
+          "id": 0,
+          "title": "roomType title"
+        }
+      ],
+      "facilities": [
+        {
+          "id": 0,
+          "title": "facility title"
+        }
+      ],
       "url": "hotel url"
     }
   ]
