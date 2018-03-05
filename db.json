@@ -1,5 +1,5 @@
 {
-  "Tour": [
+  "tour": [
     {
       "currency": "EUR",
       "hasOffer": true,
@@ -32,12 +32,11 @@
       "dateBegin": "2011-12-19",
       "nights": 10
     }
-	],
-	
+  ],
 
-  "Hotel": [
+  "hotel": [
     {
-      "id": 0,
+      "id": 1,
       "image": "Aldemar Royal Olympian Suites",
       "title": "",
       "stars": "",
@@ -48,13 +47,23 @@
       "location": [{ "lat": 0, "lon": 0 }],
       "meals": [{ "id": 0, "title": "meal title" }],
       "roomType": [{ "id": 0, "title": "roomType title" }],
-      "facilities": [{ "id": 0, "title": "facilitie title" }],
-			"url": "hotel url",
-			"HotelDetails": [
-				{
-
-				}
-			]
+      "facilities": [{ "id": 0, "title": "facility title" }],
+      "url": "hotel url"
+    },
+    {
+      "id": 2,
+      "image": "Aldemar Royal Olympian Suites",
+      "title": "",
+      "stars": "",
+      "region": "",
+      "city": "",
+      "rating": "5",
+      "reviews": "",
+      "location": [{ "lat": 0, "lon": 0 }],
+      "meals": [{ "id": 0, "title": "meal title" }],
+      "roomType": [{ "id": 0, "title": "roomType title" }],
+      "facilities": [{ "id": 0, "title": "facility title" }],
+      "url": "hotel url"
     }
   ]
 }
