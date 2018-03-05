@@ -17,17 +17,20 @@ m.mount(document.getElementById('resources'), {
           return m('li', [
             m('a', { href: key }, '/' + key),
             m(
-              'sup',
-              Array.isArray(db[key]) ? ' ' + db[key].length + 'x' : ' object'
+              'span',
+              Array.isArray(db[key]) ? '' + db[key].length : ' object'
             )
           ])
-        })
-        .concat([m('a', { href: 'db' }, '/db'), m('sup', m('em', ' state'))])
+        }).concat( 
+            m('li', [
+            m('a', { href: 'db' }, '/db'), 
+            m('span.s', 'state')
+            ])
+        )
     )
 
     return [
-      m('h4', 'Resources'),
-      keys.length ? resourceList : m('p', 'No resources found')
+      keys.length ? resourceList : m('p', 'No resources found'),
     ]
   }
 })
