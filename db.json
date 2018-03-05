@@ -1,0 +1,60 @@
+{
+  "Tour": [
+    {
+      "currency": "EUR",
+      "hasOffer": true,
+      "hotels": [],
+      "isPremium": true,
+      "isRecommended": true,
+      "tourName": "Great tour name",
+      "tourCode": "79fc4bc1ec369fb2861fa67ce3970dab",
+      "price": [
+        {
+          "value": 252,
+          "currency": "EUR"
+        },
+        {
+          "value": 28636,
+          "currency": "RUB"
+        }
+      ],
+      "previousPrice": [
+        {
+          "value": 243,
+          "currency": "EUR"
+        },
+        {
+          "value": 24636,
+          "currency": "RUB"
+        }
+      ],
+      "showDiscount": true,
+      "dateBegin": "2011-12-19",
+      "nights": 10
+    }
+	],
+	
+
+  "Hotel": [
+    {
+      "id": 0,
+      "image": "Aldemar Royal Olympian Suites",
+      "title": "",
+      "stars": "",
+      "region": "",
+      "city": "",
+      "rating": "5",
+      "reviews": "",
+      "location": [{ "lat": 0, "lon": 0 }],
+      "meals": [{ "id": 0, "title": "meal title" }],
+      "roomType": [{ "id": 0, "title": "roomType title" }],
+      "facilities": [{ "id": 0, "title": "facilitie title" }],
+			"url": "hotel url",
+			"HotelDetails": [
+				{
+
+				}
+			]
+    }
+  ]
+}
