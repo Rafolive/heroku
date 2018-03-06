@@ -1,4 +1,94 @@
 {
+  "languages": [
+    {
+      "Id": 0,
+      "CategoryName": "RussianDefault"
+    },
+    {
+      "Id": 1,
+      "CategoryName": "NoTranslation"
+    },
+    {
+      "Id": 2,
+      "CategoryName": "Czech"
+    },
+    {
+      "Id": 3,
+      "CategoryName": "English"
+    },
+    {
+      "Id": 4,
+      "CategoryName": "Greek"
+    },
+    {
+      "Id": 5,
+      "CategoryName": "Serbian"
+    },
+    {
+      "Id": 6,
+      "CategoryName": "Bulgarian"
+    },
+    {
+      "Id": 7,
+      "CategoryName": "Ukrainian"
+    },
+    {
+      "Id": 8,
+      "CategoryName": "Latvian"
+    },
+    {
+      "Id": 9,
+      "CategoryName": "Romanian"
+    },
+    {
+      "Id": 10,
+      "CategoryName": "German"
+    },
+    {
+      "Id": 11,
+      "CategoryName": "Hungarian"
+    },
+    {
+      "Id": 12,
+      "CategoryName": "Chinese"
+    },
+    {
+      "Id": 13,
+      "CategoryName": "Polish"
+    },
+    {
+      "Id": 14,
+      "CategoryName": "Georgian"
+    },
+    {
+      "Id": 15,
+      "CategoryName": "Turkish"
+    },
+    {
+      "Id": 16,
+      "CategoryName": "Armenian"
+    },
+    {
+      "Id": 17,
+      "CategoryName": "Italian"
+    },
+    {
+      "Id": 18,
+      "CategoryName": "French"
+    },
+    {
+      "Id": 19,
+      "CategoryName": "Persian"
+    },
+    {
+      "Id": 20,
+      "CategoryName": "Arabic"
+    },
+    {
+      "Id": 21,
+      "CategoryName": "Estonian"
+    }
+  ],
   "tour": [
     {
       "currency": "EUR",
@@ -35,30 +125,31 @@
   ],
   "hotel": [
     {
-      "id": 1,
-      "image": "Aldemar Royal Olympian Suites",
-      "title": "",
-      "stars": "",
+      "id": 5223,
+      "title": "Bomo Club Palmariva Beach",
+      "stars": "4",
       "region": "",
       "city": "",
       "rating": "5",
       "reviews": "",
+      "image":
+        "https://d3tbdp5zbjzb8t.cloudfront.net/userfiles/hotels/pictureshd/693/693_palmariva-eretria-hotel_99124.jpeg",
       "location": [
         {
-          "lat": 0,
-          "lon": 0
+          "lat": 21.3226,
+          "lon": 37.7069
         }
       ],
       "meals": [
         {
           "id": 0,
-          "title": "meal title"
+          "title": "HB"
         }
       ],
       "roomType": [
         {
           "id": 0,
-          "title": "roomType title"
+          "title": "UL"
         }
       ],
       "facilities": [
@@ -103,6 +194,136 @@
         }
       ],
       "url": "hotel url"
+    }
+  ],
+  "countries": [
+    {
+      "Id": 0,
+      "CategoryName": "AllCountries"
+    },
+    {
+      "Id": 3,
+      "CategoryName": "Greece"
+    },
+    {
+      "Id": 6365,
+      "CategoryName": "Iran"
+    },
+    {
+      "Id": 6364,
+      "CategoryName": "test_sync"
+    },
+    {
+      "Id": 460,
+      "CategoryName": "Russia"
+    },
+    {
+      "Id": 5,
+      "CategoryName": "Ukraine"
+    },
+    {
+      "Id": 375,
+      "CategoryName": "Belarus"
+    },
+    {
+      "Id": 6258,
+      "CategoryName": "Cyprus"
+    },
+    {
+      "Id": 3272,
+      "CategoryName": "Kazakhstan"
+    },
+    {
+      "Id": 6236,
+      "CategoryName": "Serbia"
+    },
+    {
+      "Id": 359,
+      "CategoryName": "Bulgaria"
+    },
+    {
+      "Id": 6239,
+      "CategoryName": "Azerbajdzhan"
+    },
+    {
+      "Id": 6234,
+      "CategoryName": "Moldova"
+    },
+    {
+      "Id": 6240,
+      "CategoryName": "Czech Republic"
+    },
+    {
+      "Id": 6226,
+      "CategoryName": "Latvia"
+    },
+    {
+      "Id": 6266,
+      "CategoryName": "Romania"
+    },
+    {
+      "Id": 372,
+      "CategoryName": "Estonia"
+    },
+    {
+      "Id": 99999,
+      "CategoryName": "Europe"
+    },
+    {
+      "Id": 99997,
+      "CategoryName": "Baltic"
+    },
+    {
+      "Id": 99998,
+      "CategoryName": "Other countries"
+    },
+    {
+      "Id": 6250,
+      "CategoryName": "Hungary"
+    },
+    {
+      "Id": 6264,
+      "CategoryName": "Poland"
+    },
+    {
+      "Id": 6252,
+      "CategoryName": "Georgia"
+    },
+    {
+      "Id": 6228,
+      "CategoryName": "Armenia"
+    },
+    {
+      "Id": 6246,
+      "CategoryName": "Austria"
+    },
+    {
+      "Id": 6273,
+      "CategoryName": "France"
+    },
+    {
+      "Id": 6251,
+      "CategoryName": "Germany"
+    },
+    {
+      "Id": 6256,
+      "CategoryName": "Spain"
+    },
+    {
+      "Id": 6259,
+      "CategoryName": "Kirgizia"
+    },
+    {
+      "Id": 6237,
+      "CategoryName": "Italy"
+    },
+    {
+      "Id": 6235,
+      "CategoryName": "Turkey"
+    },
+    {
+      "Id": 6357,
+      "CategoryName": "Мальдивы"
     }
   ],
   "cities": [
@@ -2341,5 +2562,611 @@
         "nameEng": "School"
       }
     ]
+  ],
+  "fasilities": [
+    {
+      "Id": 1,
+      "CategoryName": "Бассейн"
+    },
+    {
+      "Id": 2,
+      "CategoryName": "Детская комната"
+    },
+    {
+      "Id": 3,
+      "CategoryName": "Детская площадка"
+    },
+    {
+      "Id": 4,
+      "CategoryName": "Детские горки"
+    },
+    {
+      "Id": 5,
+      "CategoryName": "Детский бассейн"
+    },
+    {
+      "Id": 6,
+      "CategoryName": "Детский клуб"
+    },
+    {
+      "Id": 7,
+      "CategoryName": "Интернет"
+    },
+    {
+      "Id": 8,
+      "CategoryName": "Конференц-зал"
+    },
+    {
+      "Id": 9,
+      "CategoryName": "Магазин"
+    },
+    {
+      "Id": 10,
+      "CategoryName": "Няня"
+    },
+    {
+      "Id": 11,
+      "CategoryName": "Обмен валюты"
+    },
+    {
+      "Id": 12,
+      "CategoryName": "Парикмахерская"
+    },
+    {
+      "Id": 13,
+      "CategoryName": "Сейф"
+    },
+    {
+      "Id": 14,
+      "CategoryName": "Теле-зал"
+    },
+    {
+      "Id": 15,
+      "CategoryName": "Химчистка/прачечная"
+    },
+    {
+      "Id": 16,
+      "CategoryName": "Анимация"
+    },
+    {
+      "Id": 17,
+      "CategoryName": "Бильярд"
+    },
+    {
+      "Id": 18,
+      "CategoryName": "Дискотека"
+    },
+    {
+      "Id": 19,
+      "CategoryName": "Шоу-программы"
+    },
+    {
+      "Id": 20,
+      "CategoryName": "Аэробика"
+    },
+    {
+      "Id": 21,
+      "CategoryName": "Водная гимнастика"
+    },
+    {
+      "Id": 22,
+      "CategoryName": "Водное поло"
+    },
+    {
+      "Id": 23,
+      "CategoryName": "Водные виды спорта"
+    },
+    {
+      "Id": 24,
+      "CategoryName": "Волейбол"
+    },
+    {
+      "Id": 25,
+      "CategoryName": "Дартс"
+    },
+    {
+      "Id": 26,
+      "CategoryName": "Мини-гольф"
+    },
+    {
+      "Id": 27,
+      "CategoryName": "Настольный теннис"
+    },
+    {
+      "Id": 28,
+      "CategoryName": "Пляжный волейбол"
+    },
+    {
+      "Id": 29,
+      "CategoryName": "Подводное плавание"
+    },
+    {
+      "Id": 30,
+      "CategoryName": "Теннис"
+    },
+    {
+      "Id": 31,
+      "CategoryName": "Футбол"
+    },
+    {
+      "Id": 32,
+      "CategoryName": "Бар"
+    },
+    {
+      "Id": 33,
+      "CategoryName": "Ресторан"
+    },
+    {
+      "Id": 34,
+      "CategoryName": "Таверна"
+    },
+    {
+      "Id": 35,
+      "CategoryName": "Песчано-галечный"
+    },
+    {
+      "Id": 36,
+      "CategoryName": "Кредитные карты"
+    },
+    {
+      "Id": 37,
+      "CategoryName": "Аппарат для приг. кофе"
+    },
+    {
+      "Id": 38,
+      "CategoryName": "Балкон/терраса"
+    },
+    {
+      "Id": 39,
+      "CategoryName": "Ванна/душ"
+    },
+    {
+      "Id": 40,
+      "CategoryName": "Кондиционер"
+    },
+    {
+      "Id": 41,
+      "CategoryName": "Музыкальный канал"
+    },
+    {
+      "Id": 42,
+      "CategoryName": "Спутниковое ТВ"
+    },
+    {
+      "Id": 43,
+      "CategoryName": "Телефон"
+    },
+    {
+      "Id": 44,
+      "CategoryName": "Фен"
+    },
+    {
+      "Id": 45,
+      "CategoryName": "Холодильник"
+    },
+    {
+      "Id": 46,
+      "CategoryName": "Сауна"
+    },
+    {
+      "Id": 47,
+      "CategoryName": "Водные горки"
+    },
+    {
+      "Id": 48,
+      "CategoryName": "Сквош"
+    },
+    {
+      "Id": 49,
+      "CategoryName": "Шахматы"
+    },
+    {
+      "Id": 50,
+      "CategoryName": "Пиццерия"
+    },
+    {
+      "Id": 51,
+      "CategoryName": "Галечный"
+    },
+    {
+      "Id": 52,
+      "CategoryName": "Песчаный пляж"
+    },
+    {
+      "Id": 53,
+      "CategoryName": "Зонтики"
+    },
+    {
+      "Id": 54,
+      "CategoryName": "Лежаки"
+    },
+    {
+      "Id": 55,
+      "CategoryName": "Халат"
+    },
+    {
+      "Id": 57,
+      "CategoryName": "Массаж"
+    },
+    {
+      "Id": 58,
+      "CategoryName": "Тренажёрный зал"
+    },
+    {
+      "Id": 59,
+      "CategoryName": "Фитнес-центр"
+    },
+    {
+      "Id": 60,
+      "CategoryName": "Баскетбол"
+    },
+    {
+      "Id": 61,
+      "CategoryName": "Водные лыжи"
+    },
+    {
+      "Id": 62,
+      "CategoryName": "Каноэ"
+    },
+    {
+      "Id": 63,
+      "CategoryName": "Катамаран"
+    },
+    {
+      "Id": 64,
+      "CategoryName": "Сёрфинг"
+    },
+    {
+      "Id": 65,
+      "CategoryName": "Кафе"
+    },
+    {
+      "Id": 66,
+      "CategoryName": "Пляжные полотенца"
+    },
+    {
+      "Id": 67,
+      "CategoryName": "Мини-бар"
+    },
+    {
+      "Id": 68,
+      "CategoryName": "Телевизор"
+    },
+    {
+      "Id": 69,
+      "CategoryName": "Водный велосипед"
+    },
+    {
+      "Id": 70,
+      "CategoryName": "Отель работает круглый год"
+    },
+    {
+      "Id": 71,
+      "CategoryName": "Радио"
+    },
+    {
+      "Id": 72,
+      "CategoryName": "Вид из номера"
+    },
+    {
+      "Id": 73,
+      "CategoryName": "Джакузи"
+    },
+    {
+      "Id": 74,
+      "CategoryName": "Кухня"
+    },
+    {
+      "Id": 75,
+      "CategoryName": "Отопление"
+    },
+    {
+      "Id": 77,
+      "CategoryName": "Барбекю"
+    },
+    {
+      "Id": 78,
+      "CategoryName": "CD/DVD проигрыватель"
+    },
+    {
+      "Id": 79,
+      "CategoryName": "Трансфер"
+    },
+    {
+      "Id": 80,
+      "CategoryName": "Велосипеды"
+    },
+    {
+      "Id": 81,
+      "CategoryName": "Российский канал"
+    },
+    {
+      "Id": 82,
+      "CategoryName": "Яхт-клуб"
+    },
+    {
+      "Id": 83,
+      "CategoryName": "Живая музыка"
+    },
+    {
+      "Id": 84,
+      "CategoryName": "Русскоязычный персонал"
+    },
+    {
+      "Id": 85,
+      "CategoryName": "Детская кроватка"
+    },
+    {
+      "Id": 86,
+      "CategoryName": "Керамическое покрытие"
+    },
+    {
+      "Id": 87,
+      "CategoryName": "Чайник"
+    },
+    {
+      "Id": 88,
+      "CategoryName": "Детское питание"
+    },
+    {
+      "Id": 89,
+      "CategoryName": "Верховая езда"
+    },
+    {
+      "Id": 90,
+      "CategoryName": "Кабинки"
+    },
+    {
+      "Id": 91,
+      "CategoryName": "Условия для инвалидов"
+    },
+    {
+      "Id": 92,
+      "CategoryName": "Дайвинг"
+    },
+    {
+      "Id": 93,
+      "CategoryName": "Мини-футбол"
+    },
+    {
+      "Id": 94,
+      "CategoryName": "Стрельба из лука"
+    },
+    {
+      "Id": 96,
+      "CategoryName": "Амфитеатр"
+    },
+    {
+      "Id": 97,
+      "CategoryName": "Салон красоты"
+    },
+    {
+      "Id": 98,
+      "CategoryName": "Стоматологич. кабинет"
+    },
+    {
+      "Id": 99,
+      "CategoryName": "Размещение с животными"
+    },
+    {
+      "Id": 100,
+      "CategoryName": "Бананасейлинг"
+    },
+    {
+      "Id": 101,
+      "CategoryName": "Парасейлинг"
+    },
+    {
+      "Id": 103,
+      "CategoryName": "Турецкая баня"
+    },
+    {
+      "Id": 104,
+      "CategoryName": "Гольф"
+    },
+    {
+      "Id": 105,
+      "CategoryName": "Солярий"
+    },
+    {
+      "Id": 106,
+      "CategoryName": "Ночной клуб"
+    },
+    {
+      "Id": 107,
+      "CategoryName": "Спортзал"
+    },
+    {
+      "Id": 108,
+      "CategoryName": "Игровые автоматы"
+    },
+    {
+      "Id": 109,
+      "CategoryName": "Видеосалон"
+    },
+    {
+      "Id": 110,
+      "CategoryName": "Ковровое покрытие"
+    },
+    {
+      "Id": 111,
+      "CategoryName": "Диетическое питание"
+    },
+    {
+      "Id": 112,
+      "CategoryName": "Столовая"
+    },
+    {
+      "Id": 113,
+      "CategoryName": "Мини-зоопарк"
+    },
+    {
+      "Id": 114,
+      "CategoryName": "Боулинг"
+    },
+    {
+      "Id": 115,
+      "CategoryName": "Вегетарианское питание"
+    },
+    {
+      "Id": 116,
+      "CategoryName": "Казино"
+    },
+    {
+      "Id": 117,
+      "CategoryName": "Бадминтон"
+    },
+    {
+      "Id": 118,
+      "CategoryName": "Прокат лодок"
+    },
+    {
+      "Id": 120,
+      "CategoryName": "Водные мотоциклы"
+    },
+    {
+      "Id": 121,
+      "CategoryName": "Кофейня"
+    },
+    {
+      "Id": 123,
+      "CategoryName": "Видео-игры"
+    },
+    {
+      "Id": 129,
+      "CategoryName": "Церковь"
+    },
+    {
+      "Id": 130,
+      "CategoryName": "Консьерж"
+    },
+    {
+      "Id": 131,
+      "CategoryName": "Ночной портье"
+    },
+    {
+      "Id": 132,
+      "CategoryName": "Почтовые услуги"
+    },
+    {
+      "Id": 133,
+      "CategoryName": "Аренда автомобиля"
+    },
+    {
+      "Id": 134,
+      "CategoryName": "Услуга \"будильник\""
+    },
+    {
+      "Id": 135,
+      "CategoryName": "Врач"
+    },
+    {
+      "Id": 136,
+      "CategoryName": "Бассейн олимпийских размеров"
+    },
+    {
+      "Id": 137,
+      "CategoryName": "Спа"
+    },
+    {
+      "Id": 138,
+      "CategoryName": "Размещение с животными не допускается"
+    },
+    {
+      "Id": 139,
+      "CategoryName": "Автостоянка"
+    },
+    {
+      "Id": 140,
+      "CategoryName": "Обслуживание номеров"
+    },
+    {
+      "Id": 141,
+      "CategoryName": "Нет условий для инвалидов"
+    },
+    {
+      "Id": 142,
+      "CategoryName": "Услуги для малышей"
+    },
+    {
+      "Id": 143,
+      "CategoryName": "Пристань"
+    },
+    {
+      "Id": 144,
+      "CategoryName": "1 береговая линия"
+    },
+    {
+      "Id": 148,
+      "CategoryName": "1 спальня"
+    },
+    {
+      "Id": 149,
+      "CategoryName": "2 спальни"
+    },
+    {
+      "Id": 150,
+      "CategoryName": "3 спальни"
+    },
+    {
+      "Id": 151,
+      "CategoryName": "4 спальни"
+    },
+    {
+      "Id": 152,
+      "CategoryName": "5+ спальни"
+    },
+    {
+      "Id": 153,
+      "CategoryName": "Deluxe"
+    },
+    {
+      "Id": 154,
+      "CategoryName": "Каменистый пляж"
+    },
+    {
+      "Id": 155,
+      "CategoryName": "Досуг/кружки/занятия"
+    },
+    {
+      "Id": 157,
+      "CategoryName": "Роскошный"
+    },
+    {
+      "Id": 158,
+      "CategoryName": "Бассейн с подогревом"
+    },
+    {
+      "Id": 159,
+      "CategoryName": "Детский клуб Grekoleto"
+    },
+    {
+      "Id": 160,
+      "CategoryName": "Вертолётная площадка"
+    },
+    {
+      "Id": 161,
+      "CategoryName": "Эксклюзивная недвижимость"
+    },
+    {
+      "Id": 162,
+      "CategoryName": "Выгодная цена"
+    },
+    {
+      "Id": 163,
+      "CategoryName": "<100 м"
+    },
+    {
+      "Id": 164,
+      "CategoryName": "100-300 м"
+    },
+    {
+      "Id": 165,
+      "CategoryName": ">300 м"
+    },
+    {
+      "Id": 182,
+      "CategoryName": "Языковая школа"
+    }
   ]
 }
