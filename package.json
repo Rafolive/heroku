@@ -1,17 +1,17 @@
 {
-  "name": "json-server-heroku",
+  "name": "json-server",
   "version": "1.0.0",
-  "description": "Simple json-base database to deploy to Heroku",
+  "description": "Simple json-base database",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js --watch db.json",
     "dev": "nodemon server.js"
   },
   "keywords": [
-    "json-server, heroku, node, REST API"
+    "json-server"
   ],
-  "author": "Jesper Orb",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "json-server": "^0.12.1"
   }

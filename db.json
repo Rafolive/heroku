@@ -1,92 +1,16 @@
 {
   "languages": [
     {
-      "Id": 0,
-      "CategoryName": "RussianDefault"
+      "id": 1,
+      "name": "English"
     },
     {
-      "Id": 1,
-      "CategoryName": "NoTranslation"
+      "id": 2,
+      "name": "Greek"
     },
     {
-      "Id": 2,
-      "CategoryName": "Czech"
-    },
-    {
-      "Id": 3,
-      "CategoryName": "English"
-    },
-    {
-      "Id": 4,
-      "CategoryName": "Greek"
-    },
-    {
-      "Id": 5,
-      "CategoryName": "Serbian"
-    },
-    {
-      "Id": 6,
-      "CategoryName": "Bulgarian"
-    },
-    {
-      "Id": 7,
-      "CategoryName": "Ukrainian"
-    },
-    {
-      "Id": 8,
-      "CategoryName": "Latvian"
-    },
-    {
-      "Id": 9,
-      "CategoryName": "Romanian"
-    },
-    {
-      "Id": 10,
-      "CategoryName": "German"
-    },
-    {
-      "Id": 11,
-      "CategoryName": "Hungarian"
-    },
-    {
-      "Id": 12,
-      "CategoryName": "Chinese"
-    },
-    {
-      "Id": 13,
-      "CategoryName": "Polish"
-    },
-    {
-      "Id": 14,
-      "CategoryName": "Georgian"
-    },
-    {
-      "Id": 15,
-      "CategoryName": "Turkish"
-    },
-    {
-      "Id": 16,
-      "CategoryName": "Armenian"
-    },
-    {
-      "Id": 17,
-      "CategoryName": "Italian"
-    },
-    {
-      "Id": 18,
-      "CategoryName": "French"
-    },
-    {
-      "Id": 19,
-      "CategoryName": "Persian"
-    },
-    {
-      "Id": 20,
-      "CategoryName": "Arabic"
-    },
-    {
-      "Id": 21,
-      "CategoryName": "Estonian"
+      "id": 3,
+      "name": "Russian"
     }
   ],
   "tour": [
