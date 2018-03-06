@@ -35,30 +35,30 @@
   ],
   "hotel": [
     {
-      "id": 1,
-      "image": "Aldemar Royal Olympian Suites",
-      "title": "",
-      "stars": "",
+      "id": 5223,
+      "title": "Bomo Club Palmariva Beach",
+      "stars": "4",
       "region": "",
       "city": "",
       "rating": "5",
       "reviews": "",
+      "image": "https://d3tbdp5zbjzb8t.cloudfront.net/userfiles/hotels/pictureshd/693/693_palmariva-eretria-hotel_99124.jpeg",
       "location": [
         {
-          "lat": 0,
-          "lon": 0
+          "lat": 21.3226,
+          "lon": 37.7069
         }
       ],
       "meals": [
         {
           "id": 0,
-          "title": "meal title"
+          "title": "HB"
         }
       ],
       "roomType": [
         {
           "id": 0,
-          "title": "roomType title"
+          "title": "UL"
         }
       ],
       "facilities": [
