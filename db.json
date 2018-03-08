@@ -26,22 +26,32 @@
                 }
               ]
             }
+          ],
+          "animals": [
+            {
+              "id": 7,
+              "name": "Dog"
+            },
+            {
+              "id": 8,
+              "name": "Cat"
+            }
           ]
         },
         {
-          "id": 7,
+          "id": 9,
           "name": "HR Department",
           "people": [
             {
-              "id": 8,
+              "id": 10,
               "name": "HR Officer",
               "people": [
                 {
-                  "id": 9,
+                  "id": 11,
                   "name": "HR Assistant 1"
                 },
                 {
-                  "id": 10,
+                  "id": 12,
                   "name": "HR Assistant 2"
                 }
               ]
