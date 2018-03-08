@@ -89,6 +89,45 @@
       "CategoryName": "Estonian"
     }
   ],
+  "countries": [
+    {
+      "id": 1,
+      "country": "Armenia",
+      "cities": [
+        { "id": 1, "city": "Abovyan" },
+        { "id": 2, "city": "Agarak" },
+        { "id": 3, "city": "Apaga" },
+        { "id": 4, "city": "Aparan" },
+        { "id": 5, "city": "Arabkir" },
+        { "id": 6, "city": "Ashtarak" },
+        { "id": 7, "city": "Erebuni Fortress" },
+        { "id": 8, "city": "Hrazdan" },
+        { "id": 9, "city": "Ijevan" },
+        { "id": 10, "city": "Jermuk" },
+        { "id": 11, "city": "Kapan" },
+        { "id": 12, "city": "Tsaghkadzor" },
+        { "id": 13, "city": "Vanadzor" },
+        { "id": 14, "city": "Yerevan" }
+      ]
+    },
+    {
+      "id": 2,
+      "country": "Greece",
+      "cities": [
+        { "id": 1, "city": "Athens" },
+        { "id": 2, "city": "Thessaloniki" },
+        { "id": 3, "city": "Kavala" },
+        { "id": 4, "city": "Drama" }
+      ],
+      "iclands": [
+        { "id": 1, "iceland": "Chios" },
+        { "id": 2, "iceland": "Corfou" },
+        { "id": 3, "iceland": "Rhodes" },
+        { "id": 4, "iceland": "Crete" },
+        { "id": 5, "iceland": "Zakynthos" }
+      ]
+    }
+  ],
   "tour": [
     {
       "currency": "EUR",
@@ -194,32 +233,6 @@
         }
       ],
       "url": "hotel url"
-    }
-  ],
-  "countries": [
-    {
-      "name": "Armenia",
-      "cities": [
-        "Abovyan",
-        "Agarak",
-        "Apaga",
-        "Aparan",
-        "Arabkir",
-        "Ashtarak",
-        "Erebuni Fortress",
-        "Hrazdan",
-        "Ijevan",
-        "Jermuk",
-        "Kapan",
-        "Tsaghkadzor",
-        "Vanadzor",
-        "Yerevan"
-      ]
-    },
-    {
-      "name": "Greece",
-      "cities": ["Athens", "Thessaloniki", "Kavala", "Drama"],
-      "iclands": ["Chios", "Corfou", "Rhodes", "Crete", "Zakynthos"]
     }
   ],
   "cities": [
