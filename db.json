@@ -198,132 +198,193 @@
   ],
   "countries": [
     {
-      "Id": 0,
-      "CategoryName": "AllCountries"
+      "Armenia": [
+        "Abovyan",
+        "Agarak",
+        "Apaga",
+        "Aparan",
+        "Arabkir",
+        "Ashtarak",
+        "Erebuni Fortress",
+        "Hrazdan",
+        "Ijevan",
+        "Jermuk",
+        "Kapan",
+        "Tsaghkadzor",
+        "Vanadzor",
+        "Yerevan"
+      ]
     },
     {
-      "Id": 3,
-      "CategoryName": "Greece"
-    },
-    {
-      "Id": 6365,
-      "CategoryName": "Iran"
-    },
-    {
-      "Id": 6364,
-      "CategoryName": "test_sync"
-    },
-    {
-      "Id": 460,
-      "CategoryName": "Russia"
-    },
-    {
-      "Id": 5,
-      "CategoryName": "Ukraine"
-    },
-    {
-      "Id": 375,
-      "CategoryName": "Belarus"
-    },
-    {
-      "Id": 6258,
-      "CategoryName": "Cyprus"
-    },
-    {
-      "Id": 3272,
-      "CategoryName": "Kazakhstan"
-    },
-    {
-      "Id": 6236,
-      "CategoryName": "Serbia"
-    },
-    {
-      "Id": 359,
-      "CategoryName": "Bulgaria"
-    },
-    {
-      "Id": 6239,
-      "CategoryName": "Azerbajdzhan"
-    },
-    {
-      "Id": 6234,
-      "CategoryName": "Moldova"
-    },
-    {
-      "Id": 6240,
-      "CategoryName": "Czech Republic"
-    },
-    {
-      "Id": 6226,
-      "CategoryName": "Latvia"
-    },
-    {
-      "Id": 6266,
-      "CategoryName": "Romania"
-    },
-    {
-      "Id": 372,
-      "CategoryName": "Estonia"
-    },
-    {
-      "Id": 99999,
-      "CategoryName": "Europe"
-    },
-    {
-      "Id": 99997,
-      "CategoryName": "Baltic"
-    },
-    {
-      "Id": 99998,
-      "CategoryName": "Other countries"
-    },
-    {
-      "Id": 6250,
-      "CategoryName": "Hungary"
-    },
-    {
-      "Id": 6264,
-      "CategoryName": "Poland"
-    },
-    {
-      "Id": 6252,
-      "CategoryName": "Georgia"
-    },
-    {
-      "Id": 6228,
-      "CategoryName": "Armenia"
-    },
-    {
-      "Id": 6246,
-      "CategoryName": "Austria"
-    },
-    {
-      "Id": 6273,
-      "CategoryName": "France"
-    },
-    {
-      "Id": 6251,
-      "CategoryName": "Germany"
-    },
-    {
-      "Id": 6256,
-      "CategoryName": "Spain"
-    },
-    {
-      "Id": 6259,
-      "CategoryName": "Kirgizia"
-    },
-    {
-      "Id": 6237,
-      "CategoryName": "Italy"
-    },
-    {
-      "Id": 6235,
-      "CategoryName": "Turkey"
-    },
-    {
-      "Id": 6357,
-      "CategoryName": "Мальдивы"
+      "Greece": [
+        "Aegina",
+        "Agioi Anargyroi",
+        "Agios Nikolaos",
+        "Agrinio",
+        "Aigaleo",
+        "Aigio",
+        "Alexandreia",
+        "Alexandroupoli",
+        "Aliartos",
+        "Alimos",
+        "Amaliada",
+        "Anavyssos",
+        "Andravida",
+        "Ano Liosia",
+        "Archaia Nemea",
+        "Argos",
+        "Argostoli",
+        "Argyroupoli",
+        "Arta",
+        "Aspropyrgos",
+        "Athens",
+        "Attica",
+        "Ayios Stefanos",
+        "Chalcis",
+        "Chania",
+        "Chania",
+        "Chios",
+        "Cholargos",
+        "Corfu",
+        "Corinth",
+        "Dafni",
+        "Dionysos",
+        "Drama",
+        "Ekali",
+        "Elassona",
+        "Elefsina",
+        "Elliniko",
+        "Eretria",
+        "Farsala",
+        "Filippiada",
+        "Filothei",
+        "Florina",
+        "Galatsi",
+        "Giannitsa",
+        "Glyfada",
+        "Gonnoi",
+        "Goumenissa",
+        "Heraklion",
+        "Hydra",
+        "Ialysos",
+        "Ierapetra",
+        "Igoumenitsa",
+        "Ioannina",
+        "Kaisariani",
+        "Kalamaria",
+        "Kalamata",
+        "Kalamos",
+        "Kallithea",
+        "Kalymnos",
+        "Kamatero",
+        "Karditsa",
+        "Kassiopi",
+        "Kastoria",
+        "Katerini",
+        "Kavala",
+        "Keratea",
+        "Keratsini",
+        "Kifissia",
+        "Kilkis",
+        "Komotini",
+        "Koropi",
+        "Kos",
+        "Kouvaras",
+        "Kozani",
+        "Kranidi",
+        "Kryonerion",
+        "Kymi",
+        "Lamia",
+        "Larisa",
+        "Lefkada",
+        "Lefkimmi",
+        "Leontario",
+        "Litochoro",
+        "Lixouri",
+        "Loutraki",
+        "Lykovrysi",
+        "Magoula",
+        "Makrygialos",
+        "Mandra",
+        "Marathon",
+        "Markopoulo Mesogaias",
+        "Megalochari",
+        "Megara",
+        "Melissia",
+        "Mesagros",
+        "Messolonghi",
+        "Metaxades",
+        "Moires",
+        "Mytilene",
+        "Nafpaktos",
+        "Nafplion",
+        "Naousa",
+        "Naxos",
+        "Nea Alikarnassos",
+        "Nea Filadelfeia",
+        "Nea Ionia",
+        "Nea Kios",
+        "Nea Makri",
+        "Nea Peramos",
+        "Nea Smyrni",
+        "Nikaia",
+        "Orestiada",
+        "Ormylia",
+        "Oropos",
+        "Paiania",
+        "Pallini",
+        "Paloukia",
+        "Panorama",
+        "Parga",
+        "Patmos",
+        "Pefki",
+        "Pella",
+        "Perama",
+        "Peristeri",
+        "Peristeri",
+        "Pikermi",
+        "Piraeus",
+        "Platy",
+        "Polichni",
+        "Porto Rafti",
+        "Preveza",
+        "Psychiko",
+        "Ptolemaida",
+        "Pylaia",
+        "Pyrgos",
+        "Rafina",
+        "Rethymno",
+        "Rhodes",
+        "Rio",
+        "Salamina",
+        "Samothraki",
+        "Serres",
+        "Servia",
+        "Sindos",
+        "Skala",
+        "Skala Oropou",
+        "Skiathos",
+        "Sparta",
+        "Spata",
+        "Symi",
+        "Tavros",
+        "Thebes",
+        "Thermi",
+        "Thessaloniki",
+        "Tinos",
+        "Trikala",
+        "Tripoli",
+        "Vari",
+        "Varkiza",
+        "Vergina",
+        "Veroia",
+        "Volos",
+        "Voula",
+        "Vouliagmeni",
+        "Xanthi",
+        "Xylokastro",
+        "Zakynthos"
+      ]
     }
   ],
   "cities": [
