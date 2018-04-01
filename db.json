@@ -3,30 +3,29 @@
     {
       "pageinfo": [
         {
-          "PageTitle": "",
-          "logoUrl": "",
+          "PageTitle": "Отдых в Греции",
+          "logoUrl":
+            "https://d3tbdp5zbjzb8t.cloudfront.net/Images/logos/1015/mte1.png?w=250&h=85",
           "adress": "7, Karatasou Str., 54626, Thessaloniki – Greece",
           "phone": "+30 2310 785 456",
           "email": "mouzenidis@hotel.gr"
+        }
+      ],
+      "socials": [
+        {
+          "id": 1,
+          "name": "Facebook",
+          "url": "https://facebook.com"
         },
         {
-          "socials": [
-            {
-              "id": 1,
-              "name": "facebook",
-              "url": "https://facebook.com"
-            },
-            {
-              "id": 2,
-              "name": "twitter",
-              "url": "https://twitter.com"
-            },
-            {
-              "id": 3,
-              "name": "googleplus",
-              "url": "https://google.com"
-            }
-          ]
+          "id": 2,
+          "name": "Twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "id": 3,
+          "name": "Google plus",
+          "url": "https://google.com"
         }
       ]
     }
