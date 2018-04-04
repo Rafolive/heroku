@@ -1,71 +1,15 @@
 {
-<<<<<<< HEAD
-  "people": [
-    {
-      "id": 1,
-      "name": "Managing Director",
-      "people": [
-        {
-          "id": 2,
-          "name": "Sales Director"
-        },
-        {
-          "id": 3,
-          "name": "IT Director",
-          "people": [
-            {
-              "id": 4,
-              "name": "Technical Lead",
-              "people": [
-                {
-                  "id": 5,
-                  "name": "Software Developer"
-                },
-                {
-                  "id": 6,
-                  "name": "Support Technician"
-                }
-              ]
-            }
-          ],
-          "animals": [
-            {
-              "id": 7,
-              "name": "Dog"
-            },
-            {
-              "id": 8,
-              "name": "Cat"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "name": "HR Department",
-          "people": [
-            {
-              "id": 10,
-              "name": "HR Officer",
-              "people": [
-                {
-                  "id": 11,
-                  "name": "HR Assistant 1"
-                },
-                {
-                  "id": 12,
-                  "name": "HR Assistant 2"
-                }
-              ]
-            }
-          ]
-=======
   "hotel": [
     {
-      "PageTitle": "Отдых в Греции",
-      "logoUrl": "https://d3tbdp5zbjzb8t.cloudfront.net/Images/logos/1015/mte1.png",
-      "adress": "7, Karatasou Str., 54626, Thessaloniki – Greece",
-      "phone": "+30 2310 785 456",
-      "email": "mouzenidis@hotel.gr",
+      "settings": [
+        {
+          "PageTitle": "Отдых в Греции",
+          "logoUrl": "https://d3tbdp5zbjzb8t.cloudfront.net/Images/logos/1015/mte1.png",
+          "adress": "7, Karatasou Str., 54626, Thessaloniki – Greece",
+          "phone": "+30 2310 785 456",
+          "email": "mouzenidis@hotel.gr"
+        }
+      ],
       "socials": [
         {
           "id": 1,
@@ -81,7 +25,6 @@
           "id": 3,
           "name": "Google plus",
           "url": "https://google.com"
->>>>>>> master
         }
       ]
     }
