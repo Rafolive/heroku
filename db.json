@@ -1,28 +1,97 @@
 {
-  "hotel": {
-    "settings": {
-      "PageTitle": "Отдых в Греции",
-      "logoUrl": "https://d3tbdp5zbjzb8t.cloudfront.net/Images/logos/1015/mte1.png",
-      "adress": "7, Karatasou Str., 54626, Thessaloniki – Greece",
-      "phone": "+30 2310 785 456",
-      "email": "mouzenidis@hotel.gr"
+  "hotel-offers": [
+    {
+      "id": 1,
+      "title": "Sani Beach",
+      "description": "Полный пансион в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/67/67_sani-beach-hotel-spa_98943.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "14 600 ₽"
     },
-    "socials": [
-      {
-        "id": 1,
-        "name": "Facebook",
-        "url": "https://facebook.com"
-      },
-      {
-        "id": 2,
-        "name": "Twitter",
-        "url": "https://twitter.com"
-      },
-      {
-        "id": 3,
-        "name": "Google plus",
-        "url": "https://google.com"
-      }
-    ]
-  }
+    {
+      "id": 2,
+      "title": "Villas Eagles",
+      "description": "Трансфер в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/6130913/6130913_villas-eagles_141502.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "26 600 ₽"
+    },
+    {
+      "id": 3,
+      "title": "Sani Club",
+      "description": "Полный пансион в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/68/68_sani-beach-club_150919.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "24 366 ₽"
+    }
+  ],
+  "best-prices": [
+    {
+      "id": 1,
+      "title": "Sani Beach",
+      "description": "Полный пансион в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/67/67_sani-beach-hotel-spa_98943.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "14 600 ₽"
+    },
+    {
+      "id": 2,
+      "title": "Villas Eagles",
+      "description": "Трансфер в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/6130913/6130913_villas-eagles_141502.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "26 600 ₽"
+    },
+    {
+      "id": 3,
+      "title": "Sani Club",
+      "description": "Полный пансион в подарок!",
+      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/68/68_sani-beach-club_150919.jpeg",
+      "dateFrom": "2018-08-31T00:00:00-06:00",
+      "dateTo": "2018-08-31T00:00:00-06:00",
+      "priceFrom": "24 366 ₽"
+    }
+  ],
+  "webinars": [
+    {
+      "id": 1,
+      "date": "2018-08-15T00:00:00-06:00",
+      "title": "50 оттенков Средиземного моря",
+      "speaker": "Ксения Пузанкова"
+    },
+    {
+      "id": 2,
+      "date": "2018-08-14T00:00:00-06:00",
+      "title": "Лечебные курорты Греции",
+      "speaker": "Крупина Александра"
+    },
+    {
+      "id": 3,
+      "date": "2018-08-13T00:00:00-06:00",
+      "title": "Халкидики - там где начинается Греция",
+      "speaker": "Диана Давыденко"
+    }
+  ],
+  "seminars": [
+    {
+      "id": 1,
+      "date": "2018-08-15T00:00:00-06:00",
+      "title": "Пелопоннес - обзор курортов полуострова"
+    },
+    {
+      "id": 2,
+      "date": "2018-08-14T00:00:00-06:00",
+      "title": "Трэвел-гид по Халкидикам: отдых на полуострове - от А до Я"
+    },
+    {
+      "id": 3,
+      "date": "2018-08-13T00:00:00-06:00",
+      "title": "5 основных причин поехать в грузию / Трэвел-гид по Грузии: круглогодичный отдых от А до Я"
+    }
+  ]
 }
