@@ -1,5 +1,5 @@
 {
-  "hotel-offers": [
+  "hotelOffers": [
     {
       "id": 1,
       "title": "Sani Beach",
@@ -28,7 +28,7 @@
       "priceFrom": "24 366 ₽"
     }
   ],
-  "best-prices": [
+  "bestPrices": [
     {
       "id": 1,
       "title": "Sani Beach",
