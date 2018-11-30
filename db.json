@@ -1,58 +1,62 @@
 {
-  id: 1,
-  map: "/maps/greece.json",
-  Region: [
+  "greece": [
     {
-      id: 1,
-      name: "Attica"
-    },
-    {
-      id: 2,
-      name: "Central Greece"
-    },
-    {
-      id: 3,
-      name: "Central Macedonia"
-    },
-    {
-      id: 4,
-      name: "Crete"
-    },
-    {
-      id: 5,
-      name: "East Macedonia and Thrace"
-    },
-    {
-      id: 6,
-      name: "Epirus"
-    },
-    {
-      id: 7,
-      name: "Ionian Islands"
-    },
-    {
-      id: 8,
-      name: "North Aegean"
-    },
-    {
-      id: 9,
-      name: "Peloponnese"
-    },
-    {
-      id: 10,
-      name: "South Aegean"
-    },
-    {
-      id: 11,
-      name: "Thessaly"
-    },
-    {
-      id: 12,
-      name: "West Greece"
-    },
-    {
-      id: 13,
-      name: "West Macedonia"
+      "id": 1,
+      "map": "/maps/greece.json",
+      "Region": [
+        {
+          "id": 1,
+          "name": "Attica"
+        },
+        {
+          "id": 2,
+          "name": "Central Greece"
+        },
+        {
+          "id": 3,
+          "name": "Central Macedonia"
+        },
+        {
+          "id": 4,
+          "name": "Crete"
+        },
+        {
+          "id": 5,
+          "name": "East Macedonia and Thrace"
+        },
+        {
+          "id": 6,
+          "name": "Epirus"
+        },
+        {
+          "id": 7,
+          "name": "Ionian Islands"
+        },
+        {
+          "id": 8,
+          "name": "North Aegean"
+        },
+        {
+          "id": 9,
+          "name": "Peloponnese"
+        },
+        {
+          "id": 10,
+          "name": "South Aegean"
+        },
+        {
+          "id": 11,
+          "name": "Thessaly"
+        },
+        {
+          "id": 12,
+          "name": "West Greece"
+        },
+        {
+          "id": 13,
+          "name": "West Macedonia"
+        }
+      ]
     }
   ]
 }
