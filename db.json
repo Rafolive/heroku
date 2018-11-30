@@ -2,98 +2,57 @@
   "greece": [
     {
       "id": 1,
+      "name": "Greece",
       "geography": "https://greko.herokuapp.com/maps/greece.json",
-      "Region": [
+      "center": "23.662107, 38.378683",
+      "markers": false,
+      "zoom": 16,
+      "regions": [
         {
           "id": 1,
-          "name": "Attica",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 2,
-          "name": "Central Greece",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 3,
-          "name": "Central Macedonia",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 4,
           "name": "Crete",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 5,
-          "name": "East Macedonia and Thrace",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 6,
-          "name": "Epirus",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 7,
-          "name": "Ionian Islands",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 8,
-          "name": "North Aegean",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 9,
-          "name": "Peloponnese",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 10,
-          "name": "South Aegean",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 11,
-          "name": "Thessaly",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 12,
-          "name": "West Greece",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
-        },
-        {
-          "id": 13,
-          "name": "West Macedonia",
-          "coordinates": "38.091475, 23.725606",
-          "center": "38.091475, 23.725606",
-          "marker": false
+          "coordinates": "25.075714, 35.336131",
+          "geography": "https://greko.herokuapp.com/maps/crete.json",
+          "center": "25.075714, 35.336131",
+          "markers": false,
+          "zoom": 22,
+          "province": [
+            {
+              "id": 1,
+              "name": "Heraklion",
+              "coordinates": "35.331251, 25.133186",
+              "geography": "https://greko.herokuapp.com/maps/heraklion.json",
+              "center": "35.331251, 25.133186",
+              "markers": false,
+              "zoom": 22,
+              "towns": [
+                {
+                  "id": 1,
+                  "name": "Heraklion",
+                  "coordinates": "35.331251, 25.133186",
+                  "center": "35.331251, 25.133186",
+                  "markers": false,
+                  "zoom": 22
+                },
+                {
+                  "id": 2,
+                  "name": "Anissaras",
+                  "coordinates": "35.335208, 25.376857",
+                  "center": "35.335208, 25.376857",
+                  "markers": false,
+                  "zoom": 22
+                },
+                {
+                  "id": 3,
+                  "name": "Palaiokastro",
+                  "coordinates": "35.366460, 25.036854",
+                  "center": "35.366460, 25.036854",
+                  "markers": false,
+                  "zoom": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     }
