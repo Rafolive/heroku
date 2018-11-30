@@ -6,55 +6,94 @@
       "Region": [
         {
           "id": 1,
-          "name": "Attica"
+          "name": "Attica",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 2,
-          "name": "Central Greece"
+          "name": "Central Greece",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 3,
-          "name": "Central Macedonia"
+          "name": "Central Macedonia",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 4,
-          "name": "Crete"
+          "name": "Crete",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 5,
-          "name": "East Macedonia and Thrace"
+          "name": "East Macedonia and Thrace",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 6,
-          "name": "Epirus"
+          "name": "Epirus",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 7,
-          "name": "Ionian Islands"
+          "name": "Ionian Islands",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 8,
-          "name": "North Aegean"
+          "name": "North Aegean",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 9,
-          "name": "Peloponnese"
+          "name": "Peloponnese",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 10,
-          "name": "South Aegean"
+          "name": "South Aegean",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 11,
-          "name": "Thessaly"
+          "name": "Thessaly",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 12,
-          "name": "West Greece"
+          "name": "West Greece",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         },
         {
           "id": 13,
-          "name": "West Macedonia"
+          "name": "West Macedonia",
+          "coordinates": "38.091475, 23.725606",
+          "center": "38.091475, 23.725606",
+          "marker": false
         }
       ]
     }
