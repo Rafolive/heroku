@@ -2,7 +2,7 @@
   "greece": [
     {
       "id": 1,
-      "geography": "/maps/greece.json",
+      "geography": "https://greko.herokuapp.com/maps/greece.json",
       "Region": [
         {
           "id": 1,
