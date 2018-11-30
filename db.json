@@ -7,7 +7,8 @@
       "center": [23.662107, 38.378683],
       "icon": false,
       "zoom": 21,
-      "regions": [
+      "level": 1,
+      "children": [
         {
           "id": 1,
           "name": "Crete",
@@ -16,7 +17,8 @@
           "center": [25.075714, 35.336131],
           "icon": false,
           "zoom": 50,
-          "province": [
+          "level": 2,
+          "children": [
             {
               "id": 1,
               "name": "Heraklion",
@@ -25,13 +27,15 @@
               "center": [35.331251, 25.133186],
               "icon": false,
               "zoom": 22,
-              "towns": [
+              "level": 3,
+              "children": [
                 {
                   "id": 1,
                   "name": "Heraklion",
                   "coordinates": [35.331251, 25.133186],
                   "center": [35.331251, 25.133186],
                   "icon": true,
+                  "level": 4,
                   "zoom": 22
                 },
                 {
@@ -40,6 +44,7 @@
                   "coordinates": [35.335208, 25.376857],
                   "center": [35.335208, 25.376857],
                   "icon": true,
+                  "level": 4,
                   "zoom": 22
                 },
                 {
@@ -48,6 +53,7 @@
                   "coordinates": [35.36646, 25.036854],
                   "center": [35.36646, 25.036854],
                   "icon": true,
+                  "level": 4,
                   "zoom": 22
                 }
               ]
