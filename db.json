@@ -2,7 +2,7 @@
   "greece": [
     {
       "id": 1,
-      "map": "/maps/greece.json",
+      "geography": "/maps/greece.json",
       "Region": [
         {
           "id": 1,
