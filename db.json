@@ -5,7 +5,7 @@
       "name": "Greece",
       "geography": "https://greko.herokuapp.com/maps/greece.json",
       "center": [23.662107, 38.378683],
-      "markers": false,
+      "icon": false,
       "zoom": 21,
       "regions": [
         {
@@ -14,7 +14,7 @@
           "coordinates": [25.075714, 35.336131],
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
-          "markers": false,
+          "icon": false,
           "zoom": 22,
           "province": [
             {
@@ -23,7 +23,7 @@
               "coordinates": [35.331251, 25.133186],
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
               "center": [35.331251, 25.133186],
-              "markers": false,
+              "icon": false,
               "zoom": 22,
               "towns": [
                 {
@@ -31,7 +31,7 @@
                   "name": "Heraklion",
                   "coordinates": [35.331251, 25.133186],
                   "center": [35.331251, 25.133186],
-                  "markers": false,
+                  "icon": true,
                   "zoom": 22
                 },
                 {
@@ -39,7 +39,7 @@
                   "name": "Anissaras",
                   "coordinates": [35.335208, 25.376857],
                   "center": [35.335208, 25.376857],
-                  "markers": false,
+                  "icon": true,
                   "zoom": 22
                 },
                 {
@@ -47,7 +47,7 @@
                   "name": "Palaiokastro",
                   "coordinates": [35.36646, 25.036854],
                   "center": [35.36646, 25.036854],
-                  "markers": false,
+                  "icon": true,
                   "zoom": 22
                 }
               ]
