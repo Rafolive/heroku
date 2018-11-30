@@ -1,97 +1,61 @@
 {
-  "hotelOffers": [
+  "greece": [
     {
       "id": 1,
-      "title": "Sani Beach",
-      "description": "Полный пансион в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/67/67_sani-beach-hotel-spa_98943.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "14 600 ₽"
-    },
-    {
-      "id": 2,
-      "title": "Villas Eagles",
-      "description": "Трансфер в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/6130913/6130913_villas-eagles_141502.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "26 600 ₽"
-    },
-    {
-      "id": 3,
-      "title": "Sani Club",
-      "description": "Полный пансион в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/68/68_sani-beach-club_150919.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "24 366 ₽"
-    }
-  ],
-  "bestPrices": [
-    {
-      "id": 1,
-      "title": "Sani Beach",
-      "description": "Полный пансион в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/67/67_sani-beach-hotel-spa_98943.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "14 600 ₽"
-    },
-    {
-      "id": 2,
-      "title": "Villas Eagles",
-      "description": "Трансфер в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/6130913/6130913_villas-eagles_141502.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "26 600 ₽"
-    },
-    {
-      "id": 3,
-      "title": "Sani Club",
-      "description": "Полный пансион в подарок!",
-      "image": "https://icdn.mouzenidis.com/userfiles/hotels/pictureshd/68/68_sani-beach-club_150919.jpeg",
-      "dateFrom": "2018-08-31T00:00:00-06:00",
-      "dateTo": "2018-08-31T00:00:00-06:00",
-      "priceFrom": "24 366 ₽"
-    }
-  ],
-  "webinars": [
-    {
-      "id": 1,
-      "date": "2018-08-15T00:00:00-06:00",
-      "title": "50 оттенков Средиземного моря",
-      "speaker": "Ксения Пузанкова"
-    },
-    {
-      "id": 2,
-      "date": "2018-08-14T00:00:00-06:00",
-      "title": "Лечебные курорты Греции",
-      "speaker": "Крупина Александра"
-    },
-    {
-      "id": 3,
-      "date": "2018-08-13T00:00:00-06:00",
-      "title": "Халкидики - там где начинается Греция",
-      "speaker": "Диана Давыденко"
-    }
-  ],
-  "seminars": [
-    {
-      "id": 1,
-      "date": "2018-08-15T00:00:00-06:00",
-      "title": "Пелопоннес - обзор курортов полуострова"
-    },
-    {
-      "id": 2,
-      "date": "2018-08-14T00:00:00-06:00",
-      "title": "Трэвел-гид по Халкидикам: отдых на полуострове - от А до Я"
-    },
-    {
-      "id": 3,
-      "date": "2018-08-13T00:00:00-06:00",
-      "title": "5 основных причин поехать в грузию / Трэвел-гид по Грузии: круглогодичный отдых от А до Я"
+      "Region": [
+        {
+          "id": 1,
+          "name": "Attica"
+        },
+        {
+          "id": 2,
+          "name": "Central Greece"
+        },
+        {
+          "id": 3,
+          "name": "Central Macedonia"
+        },
+        {
+          "id": 4,
+          "name": "Crete"
+        },
+        {
+          "id": 5,
+          "name": "East Macedonia and Thrace"
+        },
+        {
+          "id": 6,
+          "name": "Epirus"
+        },
+        {
+          "id": 7,
+          "name": "Ionian Islands"
+        },
+        {
+          "id": 8,
+          "name": "North Aegean"
+        },
+        {
+          "id": 9,
+          "name": "Peloponnese"
+        },
+        {
+          "id": 10,
+          "name": "South Aegean"
+        },
+        {
+          "id": 11,
+          "name": "Thessaly"
+        },
+        {
+          "id": 12,
+          "name": "West Greece"
+        },
+        {
+          "id": 13,
+          "name": "West Macedonia"
+        }
+      ]
     }
   ]
 }
