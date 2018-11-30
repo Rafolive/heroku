@@ -15,7 +15,7 @@
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
           "icon": false,
-          "zoom": 22,
+          "zoom": 50,
           "province": [
             {
               "id": 1,
