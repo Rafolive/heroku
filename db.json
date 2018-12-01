@@ -61,9 +61,9 @@
             {
               "id": 2,
               "name": "Rethymno",
-              "coordinates": [24.429863, 35.270805],
+              "coordinates": [24.627428, 35.271568],
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
-              "center": [24.429863, 35.270805],
+              "center": [24.627428, 35.271568],
               "icon": false,
               "zoom": 120,
               "level": 3,
