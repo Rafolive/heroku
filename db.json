@@ -16,7 +16,7 @@
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
           "icon": false,
-          "zoom": 60,
+          "zoom": 70,
           "level": 2,
           "children": [
             {
@@ -26,7 +26,7 @@
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
               "center": [25.133186, 35.331251],
               "icon": false,
-              "zoom": 60,
+              "zoom": 70,
               "level": 3,
               "children": [
                 {
@@ -75,7 +75,7 @@
               "name": "Agios Nikolaos",
               "coordinates": [20.705305, 37.907392],
               "icon": false,
-              "zoom": 22
+              "zoom": 80
             }
           ]
         }
