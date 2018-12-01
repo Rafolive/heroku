@@ -6,7 +6,7 @@
       "geography": "https://greko.herokuapp.com/maps/greece.json",
       "center": [23.662107, 38.378683],
       "icon": false,
-      "zoom": 21,
+      "zoom": 26,
       "level": 1,
       "children": [
         {
@@ -16,7 +16,7 @@
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
           "icon": false,
-          "zoom": 50,
+          "zoom": 60,
           "level": 2,
           "children": [
             {
@@ -62,52 +62,21 @@
         },
         {
           "id": 2,
-          "name": "Rhodes",
-          "coordinates": [27.956016, 36.203622],
-          "geography": "https://greko.herokuapp.com/maps/crete.json",
+          "name": "Zakynthos",
+          "coordinates": [20.768803, 37.787331],
+          "geography": "https://greko.herokuapp.com/maps/zakynthos.json",
           "center": [27.956016, 36.203622],
           "icon": false,
-          "zoom": 50,
+          "zoom": 60,
           "level": 2,
           "children": [
             {
               "id": 1,
-              "name": "Heraklion",
-              "coordinates": [35.331251, 25.133186],
-              "geography": "https://greko.herokuapp.com/maps/heraklion.json",
+              "name": "Agios Nikolaos",
+              "coordinates": [20.705305, 37.907392],
               "center": [35.331251, 25.133186],
               "icon": false,
-              "zoom": 22,
-              "level": 3,
-              "children": [
-                {
-                  "id": 1,
-                  "name": "Heraklion",
-                  "coordinates": [35.331251, 25.133186],
-                  "center": [35.331251, 25.133186],
-                  "icon": true,
-                  "level": 4,
-                  "zoom": 22
-                },
-                {
-                  "id": 2,
-                  "name": "Anissaras",
-                  "coordinates": [35.335208, 25.376857],
-                  "center": [35.335208, 25.376857],
-                  "icon": true,
-                  "level": 4,
-                  "zoom": 22
-                },
-                {
-                  "id": 3,
-                  "name": "Palaiokastro",
-                  "coordinates": [35.36646, 25.036854],
-                  "center": [35.36646, 25.036854],
-                  "icon": true,
-                  "level": 4,
-                  "zoom": 22
-                }
-              ]
+              "zoom": 22
             }
           ]
         }
