@@ -16,7 +16,7 @@
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
           "icon": false,
-          "zoom": 80,
+          "zoom": 90,
           "level": 2,
           "children": [
             {
@@ -36,7 +36,7 @@
                   "center": [25.133186, 35.331251],
                   "icon": true,
                   "level": 4,
-                  "zoom": 120
+                  "zoom": 170
                 },
                 {
                   "id": 2,
@@ -45,7 +45,7 @@
                   "center": [25.376857, 35.335208],
                   "icon": true,
                   "level": 4,
-                  "zoom": 120
+                  "zoom": 170
                 },
                 {
                   "id": 3,
@@ -54,7 +54,7 @@
                   "center": [25.036854, 35.36646],
                   "icon": true,
                   "level": 4,
-                  "zoom": 120
+                  "zoom": 170
                 }
               ]
             },
