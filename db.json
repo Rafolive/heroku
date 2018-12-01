@@ -26,7 +26,7 @@
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
               "center": [25.133186, 35.331251],
               "icon": false,
-              "zoom": 22,
+              "zoom": 60,
               "level": 3,
               "children": [
                 {
@@ -36,7 +36,7 @@
                   "center": [25.133186, 35.331251],
                   "icon": true,
                   "level": 4,
-                  "zoom": 22
+                  "zoom": 80
                 },
                 {
                   "id": 2,
@@ -45,7 +45,7 @@
                   "center": [25.376857, 35.335208],
                   "icon": true,
                   "level": 4,
-                  "zoom": 22
+                  "zoom": 80
                 },
                 {
                   "id": 3,
@@ -54,7 +54,7 @@
                   "center": [25.036854, 35.36646],
                   "icon": true,
                   "level": 4,
-                  "zoom": 22
+                  "zoom": 80
                 }
               ]
             }
@@ -67,7 +67,7 @@
           "geography": "https://greko.herokuapp.com/maps/zakynthos.json",
           "center": [20.768803, 37.787331],
           "icon": false,
-          "zoom": 60,
+          "zoom": 80,
           "level": 2,
           "children": [
             {
