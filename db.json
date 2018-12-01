@@ -106,7 +106,7 @@
           "geography": "https://greko.herokuapp.com/maps/zakynthos.json",
           "center": [20.768803, 37.787331],
           "icon": false,
-          "zoom": 340,
+          "zoom": 400,
           "level": 2,
           "children": [
             {
