@@ -22,9 +22,9 @@
             {
               "id": 1,
               "name": "Heraklion",
-              "coordinates": [25.133186, 35.331251],
+              "coordinates": [25.136058, 35.151396],
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
-              "center": [25.133186, 35.331251],
+              "center": [25.136058, 35.151396],
               "icon": false,
               "zoom": 60,
               "level": 3,
@@ -61,9 +61,9 @@
             {
               "id": 2,
               "name": "Rethymno",
-              "coordinates": [25.133186, 35.331251],
+              "coordinates": [24.429863, 35.270805],
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
-              "center": [25.133186, 35.331251],
+              "center": [24.429863, 35.270805],
               "icon": false,
               "zoom": 60,
               "level": 3,
