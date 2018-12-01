@@ -106,7 +106,7 @@
           "geography": "https://greko.herokuapp.com/maps/zakynthos.json",
           "center": [20.768803, 37.787331],
           "icon": false,
-          "zoom": 300,
+          "zoom": 340,
           "level": 2,
           "children": [
             {
@@ -114,7 +114,7 @@
               "name": "Agios Nikolaos",
               "coordinates": [20.705305, 37.907392],
               "icon": false,
-              "zoom": 300
+              "zoom": 340
             }
           ]
         }
