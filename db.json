@@ -16,7 +16,7 @@
           "geography": "https://greko.herokuapp.com/maps/crete.json",
           "center": [25.075714, 35.336131],
           "icon": false,
-          "zoom": 70,
+          "zoom": 60,
           "level": 2,
           "children": [
             {
@@ -26,7 +26,7 @@
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
               "center": [25.133186, 35.331251],
               "icon": false,
-              "zoom": 70,
+              "zoom": 60,
               "level": 3,
               "children": [
                 {
@@ -36,7 +36,7 @@
                   "center": [25.133186, 35.331251],
                   "icon": true,
                   "level": 4,
-                  "zoom": 80
+                  "zoom": 60
                 },
                 {
                   "id": 2,
@@ -45,7 +45,7 @@
                   "center": [25.376857, 35.335208],
                   "icon": true,
                   "level": 4,
-                  "zoom": 80
+                  "zoom": 60
                 },
                 {
                   "id": 3,
@@ -54,7 +54,46 @@
                   "center": [25.036854, 35.36646],
                   "icon": true,
                   "level": 4,
-                  "zoom": 80
+                  "zoom": 60
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Rethymno",
+              "coordinates": [25.133186, 35.331251],
+              "geography": "https://greko.herokuapp.com/maps/heraklion.json",
+              "center": [25.133186, 35.331251],
+              "icon": false,
+              "zoom": 60,
+              "level": 3,
+              "children": [
+                {
+                  "id": 1,
+                  "name": "Heraklion",
+                  "coordinates": [25.133186, 35.331251],
+                  "center": [25.133186, 35.331251],
+                  "icon": true,
+                  "level": 4,
+                  "zoom": 60
+                },
+                {
+                  "id": 2,
+                  "name": "Anissaras",
+                  "coordinates": [25.376857, 35.335208],
+                  "center": [25.376857, 35.335208],
+                  "icon": true,
+                  "level": 4,
+                  "zoom": 60
+                },
+                {
+                  "id": 3,
+                  "name": "Palaiokastro",
+                  "coordinates": [25.036854, 35.36646],
+                  "center": [25.036854, 35.36646],
+                  "icon": true,
+                  "level": 4,
+                  "zoom": 60
                 }
               ]
             }
@@ -67,7 +106,7 @@
           "geography": "https://greko.herokuapp.com/maps/zakynthos.json",
           "center": [20.768803, 37.787331],
           "icon": false,
-          "zoom": 80,
+          "zoom": 60,
           "level": 2,
           "children": [
             {
@@ -75,7 +114,7 @@
               "name": "Agios Nikolaos",
               "coordinates": [20.705305, 37.907392],
               "icon": false,
-              "zoom": 80
+              "zoom": 60
             }
           ]
         }
