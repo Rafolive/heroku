@@ -113,7 +113,15 @@
               "id": 1,
               "name": "Agios Nikolaos",
               "coordinates": [20.705305, 37.907392],
-              "icon": false,
+              "icon": true,
+              "zoom": 340
+            },
+
+            {
+              "id": 2,
+              "name": "Alykes",
+              "coordinates": [20.772801, 37.840114],
+              "icon": true,
               "zoom": 340
             }
           ]
