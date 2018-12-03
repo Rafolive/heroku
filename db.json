@@ -22,11 +22,11 @@
             {
               "id": 1,
               "name": "Heraklion",
-              "coordinates": [25.136058, 35.151396],
+              "coordinates": [24.722472194719472, 34.92361060406041],
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
-              "center": [25.136058, 35.151396],
+              "center": [24.722472194719472, 34.92361060406041],
               "icon": false,
-              "zoom": 120,
+              "zoom": 200,
               "level": 3,
               "children": [
                 {
