@@ -26,7 +26,7 @@
               "geography": "https://greko.herokuapp.com/maps/heraklion.json",
               "center": [25.136058, 35.151396],
               "icon": false,
-              "zoom": 200,
+              "zoom": 180,
               "level": 3,
               "children": [
                 {
