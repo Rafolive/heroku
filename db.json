@@ -6,7 +6,7 @@
       "geography": "https://greko.herokuapp.com/maps/greece.json",
       "center": [23.662107, 38.378683],
       "icon": false,
-      "zoom": 21,
+      "zoom": 20,
       "level": 1,
       "children": [
         {
